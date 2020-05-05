@@ -1,15 +1,15 @@
 #My first Mode, I took the INRvsUSD values from the website as CSV
 #and cleaned the data and tested the predictor values against the response variable
 #tested the mode using below techniques
-# R2(square) of the model
-# Cooks distance of the model
-# Confidence using Confint
-# AVPlots
-# Adjusted R2 value
-# AIC Value - Akaikie Information Criterion
-# Stepwise Analysis
-# Null hypothesis test method = Chi
-# Finally Chose the the best fit model as Price (response) vs (High & Open) (predictor)
+#R2(square) of the model
+#Cooks distance of the model
+#Confidence using Confint
+#AVPlots
+#Adjusted R2 value
+#AIC Value - Akaikie Information Criterion
+#Stepwise Analysis
+#Null hypothesis test method = Chi
+#Finally Chose the the best fit model as Price (response) vs (High & Open) (predictor)
 
 	#Set up WOrking Directory
 setwd("C:/Users/asket/Documents/Exploratory Data Analysis/DataSet/INRvsUSD")
